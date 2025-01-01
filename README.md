@@ -2,9 +2,9 @@
 # Assignment 2: Play with a 2x2 Rubik Cube
 by 
 
-**NAME**:
+**NAME**: Amir Arif Bin Rosli
 
-**Matric ID**
+**Matric ID**: 2116249
 
 ## Objective
 
@@ -20,3 +20,14 @@ by
 
 Tips:
 Make sure to look at https://docs.flutter.dev/cookbook/lists/grid-lists to get a hang of the flutter grid layout which is being used in the code.
+
+What I have done:
+1) Completed the Cube Layout: Added all six faces (Top, Bottom, Front, Back, Left, Right) with proper color grids.
+
+2) Implemented Rotation Logic: Fixed the rotateTop method and implemented a new rotateBottom method to handle rotations dynamically.
+
+3) Added Rotation Buttons: Included action buttons (Rotate Top and Rotate Bottom) to allow users to interact with the cube.
+
+4) Improved UI: Organized the faces in a visually clear layout and ensured dynamic updates using setState.
+
+5) Enhanced Code Modularity: Modularized face-building logic and made the rotation functionality scalable.
